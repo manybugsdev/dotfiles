@@ -1,1 +1,1 @@
-ln -s `pwd`/helix $HOME/.config/helix
+ln -s $(pwd)/alacritty $HOME/.config/alacritty
