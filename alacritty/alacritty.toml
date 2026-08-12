@@ -1,7 +1,13 @@
 [window]
 opacity = 0.9
 option_as_alt = "Both"
+
 [[keyboard.bindings]]
 key = "LBracket"
 mods = "Control"
 chars = "\u001b"
+
+[font.normal]
+family = "MonaspiceRn Nerd Font"
+style = "Regular"
+
